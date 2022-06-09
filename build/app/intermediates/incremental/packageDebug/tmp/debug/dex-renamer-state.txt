@@ -1,0 +1,4 @@
+#Thu Jun 09 18:10:27 BRT 2022
+base.0=C\:\\Users\\PlayHard\\OneDrive\\Documentos\\repos\\flutter-calculadora-hora\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
